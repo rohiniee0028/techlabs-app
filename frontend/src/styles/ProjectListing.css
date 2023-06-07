@@ -1,0 +1,31 @@
+.btn-start{
+  background-color: #1b5cbf;
+  color: lightgray;
+  border-radius: 50px;
+  padding: 2px 15px;
+}
+
+.btn-close,.btn-cancel{
+    background-color: transparent;
+    color: #1b5cbf;
+    border-radius: 50px;
+    border: 1px solid #1b5cbf;
+    padding: 2px 15px;
+}
+
+@media all and (min-width:100px) and (max-width:640px){
+  .btn-start{
+    background-color: #1b5cbf;
+    color: lightgray;
+    border-radius: 50px;
+    padding: 5px 25px;
+  }
+  
+  .btn-close,.btn-cancel{
+      background-color: transparent;
+      color: #1b5cbf;
+      border-radius: 50px;
+      border: 1px solid #1b5cbf;
+      padding: 5px 25px;
+  } 
+}
