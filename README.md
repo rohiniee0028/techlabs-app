@@ -21,6 +21,9 @@ TechPrimeLabs coding assignment done in 5 days. Flow of the site:
 - CSS
 - Highcharts library
 
+## Demo Vedio : 
+  https://drive.google.com/file/d/1wC1f6z5p8eALMQJHe1aFz11c5PC5uktg/view?usp=sharing
+
 ## Some glimpse of my project : 
 ![2023-06-08 (1)](https://github.com/rohiniee0028/techlabs-app/assets/101567508/ec279e03-c08d-4bf9-b5ab-694dc9ca5615)
 ![2023-06-08 (2)](https://github.com/rohiniee0028/techlabs-app/assets/101567508/d257d7cd-eb9d-42aa-9326-215c3fbe4fcf)
