@@ -1,5 +1,5 @@
 # Techlabs-app
-TechPrimeLabs coding assignment done in 5 days. Flow of the site:
+TechPrimeLabs coding assignment done in 5 days. Deployed this project on Netlify. Flow of the project:
 - Login
 - Dashborad data with charts
 - Sidebar option to move to any page
