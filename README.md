@@ -21,6 +21,10 @@ TechPrimeLabs coding assignment done in 5 days. Deployed this project on Netlify
 - CSS
 - Highcharts library
 
+## Credentials to Login : 
+- Email : admin@gmail.com
+- Password : admin
+
 ## Demo Vedio : 
   https://drive.google.com/file/d/1wC1f6z5p8eALMQJHe1aFz11c5PC5uktg/view?usp=sharing
 
