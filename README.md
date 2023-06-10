@@ -12,14 +12,9 @@ TechPrimeLabs coding assignment done in 5 days. Deployed this project on Netlify
 - Fully Responsive
 
 ## Tech-Stack Used : 
-- ReactJS
-- Redux
-- NodeJS
-- MongoDB
-- ExpressJS
-- Chakra-UI
-- CSS
-- Highcharts library
+- Frontend : ReactJS, Redux, Chakra-UI, CSS, Highchart.JS
+- Backend : NodeJS, ExpressJS, Mongoose
+- Database : MongoDB (No-SQL database)
 
 ## Credentials to Login : 
 - Email : admin@gmail.com
